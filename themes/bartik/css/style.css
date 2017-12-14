@@ -28,7 +28,6 @@ h6 {
   margin: 1.0em 0 0.5em;
   font-weight: inherit;
 }
-
 h1 {
   font-size: 1.357em;
   color: #000;
@@ -1634,21 +1633,9 @@ div.admin-panel .description {
 .poll .bar .foreground {
   background-color: #666;
 }
-
 #footer-wrapper .poll .bar {
   background-color: #666;
 }
 #footer-wrapper .poll .bar .foreground {
   background-color: #ddd;
-}
-.wrap-actical{
-
-}
-.body-actical{
-  display: inline-block;
-
-}
-
-.image-actical{
-   display: inline-block;
 }

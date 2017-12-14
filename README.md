@@ -1,2 +1,0 @@
-# drupal
-drupal youth1
